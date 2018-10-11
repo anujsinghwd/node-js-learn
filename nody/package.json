@@ -1,0 +1,14 @@
+{
+  "name": "nody-mody",
+  "version": "1.0.0",
+  "description": "a simple testing app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anuj singh",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.2"
+  }
+}
